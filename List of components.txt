@@ -1,0 +1,9 @@
+Esp8266 (NodeMCU) - Controller to communicate between sensors and actuators.
+
+Capacitive Soil Moisture Sensor :- Sensor to sense live moisture content in soil.
+
+DHT11 - Temperature and Humidity Sensor for environment (not for soil).
+
+DC Pump - Actuator to pump the water in soil to increase moisture content.
+
+relay module - To control high voltage motor by controller.
